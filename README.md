@@ -1,9 +1,10 @@
 # About
+
 This repo helps you to understand working of
 
-* Redux
-* ReduxToolkit
-* React Context API
+- Redux
+- ReduxToolkit
+- React Context API
 
 in the form of 3 internal apps made using these techs.
 
